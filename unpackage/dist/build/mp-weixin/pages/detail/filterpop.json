@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "筛选",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "simple-modal": "/components/simple-pro/customModal"
+  }
+}

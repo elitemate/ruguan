@@ -1,0 +1,6 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "动态",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

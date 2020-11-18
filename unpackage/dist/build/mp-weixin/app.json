@@ -1,0 +1,103 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/software",
+    "pages/index/knowledge",
+    "pages/index/business",
+    "pages/index/workspace",
+    "pages/categray/index",
+    "pages/categray/home",
+    "pages/hot/index",
+    "pages/index/list",
+    "pages/index/cate",
+    "pages/index/food",
+    "pages/footer/index",
+    "pages/index/index2",
+    "pages/index/index3",
+    "pages/index/index4",
+    "pages/message/friend",
+    "pages/message/deal",
+    "pages/message/message",
+    "pages/message/comment",
+    "pages/message/list",
+    "pages/discovery/list",
+    "pages/service/file",
+    "pages/footer/like",
+    "pages/search/search",
+    "pages/cate/index",
+    "pages/homeSearch/index",
+    "pages/member/user",
+    "pages/member/user2",
+    "pages/detail/filterpop",
+    "pages/detail/goodsinfo2",
+    "pages/service/orderdetail",
+    "pages/service/pay",
+    "pages/service/check",
+    "pages/service/aurgument",
+    "pages/service/addneed",
+    "pages/service/message",
+    "pages/service/needdetail",
+    "pages/service/agreement",
+    "pages/detail/goodsinfo"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "儒观",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#FF9D06",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/img/footer/icon_home.png",
+        "selectedIconPath": "static/img/footer/icon_home_active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/index/workspace",
+        "iconPath": "static/img/footer/icon_work.png",
+        "selectedIconPath": "static/img/footer/icon_work_active.png",
+        "text": "办公"
+      },
+      {
+        "pagePath": "pages/message/list",
+        "iconPath": "static/img/footer/icon_message.png",
+        "selectedIconPath": "static/img/footer/icon_message_active.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/discovery/list",
+        "iconPath": "static/img/footer/icon_dynamic.png",
+        "selectedIconPath": "static/img/footer/icon_dynamic_active.png",
+        "text": "动态"
+      },
+      {
+        "pagePath": "pages/member/user",
+        "iconPath": "static/img/footer/icon_center.png",
+        "selectedIconPath": "static/img/footer/icon_center_active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {
+    "orange-news": "/components/uni-pro/orange-news",
+    "orange-handpick": "/components/uni-pro/orange-handpick",
+    "orange-friend": "/components/uni-pro/orange-friend",
+    "orange-message": "/components/uni-pro/orange-message",
+    "orange-deal": "/components/uni-pro/orange-deal",
+    "orange-comment": "/components/uni-pro/orange-comment",
+    "load-more": "/components/uni-pro/load-more",
+    "empty": "/components/empty",
+    "orange-goods-list": "/components/uni-pro/orange-goods-list",
+    "orange-goods-card": "/components/uni-pro/orange-goods-card",
+    "orange-goods-card-home": "/components/uni-pro/orange-goods-card-home"
+  },
+  "sitemapLocation": "sitemap.json"
+}

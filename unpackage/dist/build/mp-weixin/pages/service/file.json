@@ -1,0 +1,6 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "文件柜",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

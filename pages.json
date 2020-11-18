@@ -1,0 +1,668 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "儒观",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false,
+          "bounce": "none"
+        }
+      },
+      "navigationStyle": "custom"
+    },
+    {
+      "path": "pages/index/software",
+      "style": {
+        "navigationBarTitleText": "IT/软件",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false,
+          "bounce": "none"
+        }
+      },
+      "navigationStyle": "custom"
+    },
+	{
+	  "path": "pages/index/knowledge",
+	  "style": {
+	    "navigationBarTitleText": "知识产权",
+	    "navigationBarTextStyle": "black",
+	    "enablePullDownRefresh": false,
+	    "app-plus": {
+	      "titleNView": false,
+	      "bounce": "none"
+	    }
+	  },
+	  "navigationStyle": "custom"
+	},
+	{
+	  "path": "pages/index/business",
+	  "style": {
+	    "navigationBarTitleText": "工商财税",
+	    "navigationBarTextStyle": "black",
+	    "enablePullDownRefresh": false,
+	    "app-plus": {
+	      "titleNView": false,
+	      "bounce": "none"
+	    }
+	  },
+	  "navigationStyle": "custom"
+	},
+	{
+	  "path": "pages/index/workspace",
+	  "style": {
+	    "navigationBarTitleText": "办公空间",
+	    "navigationBarTextStyle": "black",
+	    "enablePullDownRefresh": false,
+	    "app-plus": {
+	      "titleNView": false,
+	      "bounce": "none"
+	    }
+	  },
+	  "navigationStyle": "custom"
+	},
+    {
+      "path": "pages/categray/index",
+      "style": {
+        "navigationBarTitleText": "热门分类",
+        "navigationBarTextStyle": "black",
+        "app-plus": {
+          "scrollIndicator": "none",
+          "bounce": "none",
+          "titleNView": true
+        }
+      }
+    },
+ {
+   "path": "pages/categray/home",
+   "style": {
+     "navigationBarTitleText": "热门分类",
+     "navigationBarTextStyle": "black",
+     "app-plus": {
+       "scrollIndicator": "none",
+       "bounce": "none",
+       "titleNView": true
+     }
+   }
+ },
+   {
+     "path": "pages/hot/index",
+     "style": {
+       "navigationBarTitleText": "热销榜",
+       "navigationBarTextStyle": "black",
+       "enablePullDownRefresh": true,
+       "app-plus": {
+         "bounce": "none",
+         "pullToRefresh": {
+           "style": "circle",
+           "color": "#FF9D06",
+           "offset": "50px"
+         },
+         "titleNView": true
+       }
+     }
+   },
+    {
+      "path": "pages/index/list",
+      "style": {
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "bounce": "none",
+          "pullToRefresh": {
+            "style": "circle",
+            "color": "#FF9D06",
+            "offset": "50px"
+          },
+          "titleNView": {
+            "buttons": [
+              {
+                "text": "",
+                "float": "left"
+              }
+            ]
+          }
+        }
+      }
+    },
+	{
+	  "path": "pages/index/cate",
+	  "style": {
+		"navigationBarTitleText": "全部分类",
+	    "navigationBarTextStyle": "black",
+	    "enablePullDownRefresh": true,
+	    "app-plus": {
+	      "bounce": "none",
+	      "pullToRefresh": {
+	        "style": "circle",
+	        "color": "#FF9D06",
+	        "offset": "50px"
+	      },
+	      "titleNView": {
+	        "buttons": [
+	          {
+	            "text": "",
+	            "float": "left"
+	          }
+	        ]
+	      }
+	    }
+	  }
+	},
+
+    {
+      "path": "pages/index/food",
+      "style": {
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "bounce": "none",
+          "pullToRefresh": {
+            "style": "circle",
+            "color": "#FF9D06",
+            "offset": "50px"
+          },
+          "titleNView": {
+            "buttons": [
+              {
+                "text": "",
+                "float": "left"
+              }
+            ]
+          }
+        }
+      }
+    },
+    
+    {
+      "path": "pages/footer/index",
+      "style": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "我的足迹",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "bounce": "none",
+          "titleNView": {
+            "buttons": [
+              {
+                "text": "",
+                "float": "left"
+              }
+            ]
+          }
+        }
+      }
+    },
+   {
+     "path": "pages/index/index2",
+     "style": {
+       "navigationBarTextStyle": "black",
+       "navigationBarTitleText": "首页",
+       "enablePullDownRefresh": false,
+       "app-plus": {
+         "bounce": "none",
+         "titleNView": {
+           "buttons": [
+             {
+               "text": "",
+               "float": "left"
+             }
+           ]
+         }
+       }
+     }
+   },
+   {
+     "path": "pages/index/index3",
+     "style": {
+       "navigationBarTextStyle": "black",
+       "navigationBarTitleText": "首页",
+       "enablePullDownRefresh": false,
+       "app-plus": {
+         "bounce": "none",
+         "titleNView": {
+           "buttons": [
+             {
+               "text": "",
+               "float": "left"
+             }
+           ]
+         }
+       }
+     }
+   },
+   {
+     "path": "pages/index/index4",
+     "style": {
+       "navigationBarTextStyle": "black",
+       "navigationBarTitleText": "首页",
+       "enablePullDownRefresh": false,
+       "app-plus": {
+         "bounce": "none",
+         "titleNView": {
+           "buttons": [
+             {
+               "text": "",
+               "float": "left"
+             }
+           ]
+         }
+       }
+     }
+   },
+   {
+     "path": "pages/message/friend",
+     "style": {
+       "navigationBarTextStyle": "black",
+       "navigationBarTitleText": "盟友",
+       "enablePullDownRefresh": true,
+       "app-plus": {
+         "bounce": "none",
+         "scrollIndicator": "none",
+         "titleNView": true
+       }
+     }
+   },
+   {
+     "path": "pages/message/deal",
+     "style": {
+       "navigationBarTextStyle": "black",
+       "navigationBarTitleText": "交易通知",
+       "enablePullDownRefresh": true,
+       "app-plus": {
+         "bounce": "none",
+         "scrollIndicator": "none",
+         "titleNView": true
+       }
+     }
+   },
+   {
+     "path": "pages/message/message",
+     "style": {
+       "navigationBarTextStyle": "black",
+       "navigationBarTitleText": "推送通知",
+       "enablePullDownRefresh": true,
+       "app-plus": {
+         "bounce": "none",
+         "scrollIndicator": "none",
+         "titleNView": true
+       }
+     }
+   },
+   {
+     "path": "pages/message/comment",
+     "style": {
+       "navigationBarTextStyle": "black",
+       "navigationBarTitleText": "动态评论",
+       "enablePullDownRefresh": true,
+       "app-plus": {
+         "bounce": "none",
+         "scrollIndicator": "none",
+         "titleNView": true
+       }
+     }
+   },
+    {
+      "path": "pages/message/list",
+      "style": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "消息",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "bounce": "none",
+          "scrollIndicator": "none",
+          "titleNView": true
+        }
+      }
+    },
+    {
+      "path": "pages/discovery/list",
+      "style": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "动态",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "bounce": "none",
+          "scrollIndicator": "none",
+          "titleNView": true
+        }
+      }
+    },
+    {
+      "path": "pages/service/file",
+   "style": {
+       "navigationBarTextStyle": "black",
+       "navigationBarTitleText": "文件柜",
+       "enablePullDownRefresh": true,
+       "app-plus": {
+         "bounce": "none",
+         "scrollIndicator": "none",
+         "titleNView": true
+       }
+     }
+   },
+    {
+      "path": "pages/footer/like",
+      "style": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "我的收藏",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "bounce": "none",
+          "scrollIndicator": "none",
+          "titleNView": {
+            "buttons": [
+              {
+                "float": "left"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "pages/search/search",
+      "style": {
+        "navigationBarTitleText": "搜索",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "bounce": "none",
+          "scrollIndicator": "none",
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/cate/index",
+      "style": {
+        "navigationBarTitleText": "网红抖货",
+        "navigationBarTextStyle": "black",
+        "app-plus": {
+          "bounce": "none",
+          "titleNView": true
+        }
+      }
+    },
+    {
+      "path": "pages/homeSearch/index",
+      "style": {
+		"navigationBarBackgroundColor":"#FFFFFF",
+        "navigationBarTitleText": "搜索2",
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "black",
+        "app-plus": {
+          "bounce": "none",
+          "scrollIndicator": "none",
+          "titleNView": false
+        },
+		  "backgroundColor": "#FFFFFF"
+        // "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/member/user",
+      "style": {
+        "navigationBarTitleText": "我的",
+        "navigationStyle": "custom",
+        "app-plus": {
+          "bounce": "none",
+          "titleNView": false
+        }
+      }
+    },
+	{
+	  "path": "pages/member/user2",
+	  "style": {
+	    "navigationBarTitleText": "我的",
+	    "navigationStyle": "custom",
+	    "app-plus": {
+	      "bounce": "none",
+	      "titleNView": false
+	    }
+	  }
+	},
+	{
+	  "path": "pages/detail/filterpop",
+	  "style": {
+	    "navigationBarTitleText": "筛选",
+	    "navigationStyle": "custom",
+	    "app-plus": {
+	      "bounce": "none",
+	      "titleNView": false
+	    }
+	  }
+	},
+	{
+	  "path": "pages/detail/goodsinfo2",
+	  "style": {
+	    "navigationBarTitleText": "发需求",
+	    "navigationStyle": "custom",
+	    "app-plus": {
+	      "bounce": "none",
+	      "titleNView": false
+	    }
+	  }
+	},
+	{
+	  "path": "pages/service/orderdetail",
+	  "style": {
+		"navigationBarBackgroundColor":"#FFFFFF",
+	    "navigationBarTitleText": "订单详情",
+	    "enablePullDownRefresh": false,
+	    "navigationBarTextStyle": "black",
+	    "app-plus": {
+	      "bounce": "none",
+	      "scrollIndicator": "none",
+	      "titleNView": false
+	    },
+		  "backgroundColor": "#FFFFFF"
+	    // "navigationStyle": "custom"
+	  }
+	},
+	{
+	  "path": "pages/service/pay",
+	  "style": {
+		"navigationBarBackgroundColor":"#FFFFFF",
+	    "navigationBarTitleText": "付款页",
+	    "enablePullDownRefresh": false,
+	    "navigationBarTextStyle": "black",
+	    "app-plus": {
+	      "bounce": "none",
+	      "scrollIndicator": "none",
+	      "titleNView": false
+	    },
+		  "backgroundColor": "#FFFFFF"
+	    // "navigationStyle": "custom"
+	  }
+	},
+	{
+	  "path": "pages/service/check",
+	  "style": {
+		"navigationBarBackgroundColor":"#FFFFFF",
+	    "navigationBarTitleText": "确认验收",
+	    "enablePullDownRefresh": false,
+	    "navigationBarTextStyle": "black",
+	    "app-plus": {
+	      "bounce": "none",
+	      "scrollIndicator": "none",
+	      "titleNView": false
+	    },
+		  "backgroundColor": "#FFFFFF"
+	    // "navigationStyle": "custom"
+	  }
+	},
+	{
+	  "path": "pages/service/aurgument",
+	  "style": {
+		"navigationBarBackgroundColor":"#FFFFFF",
+	    "navigationBarTitleText": "争议维权",
+	    "enablePullDownRefresh": false,
+	    "navigationBarTextStyle": "black",
+	    "app-plus": {
+	      "bounce": "none",
+	      "scrollIndicator": "none",
+	      "titleNView": false
+	    },
+		  "backgroundColor": "#FFFFFF"
+	    // "navigationStyle": "custom"
+	  }
+	},
+	{
+	  "path": "pages/service/addneed",
+	  "style": {
+		"navigationBarBackgroundColor":"#FFFFFF",
+	    "navigationBarTitleText": "补充需求",
+	    "enablePullDownRefresh": false,
+	    "navigationBarTextStyle": "black",
+	    "app-plus": {
+	      "bounce": "none",
+	      "scrollIndicator": "none",
+	      "titleNView": false
+	    },
+		  "backgroundColor": "#FFFFFF"
+	    // "navigationStyle": "custom"
+	  }
+	},
+	{
+	  "path": "pages/service/message",
+	  "style": {
+		"navigationBarBackgroundColor":"#FFFFFF",
+	    "navigationBarTitleText": "发消息",
+	    "enablePullDownRefresh": false,
+	    "navigationBarTextStyle": "black",
+	    "app-plus": {
+	      "bounce": "none",
+	      "scrollIndicator": "none",
+	      "titleNView": false
+	    },
+		  "backgroundColor": "#FFFFFF"
+	    // "navigationStyle": "custom"
+	  }
+	},
+	{
+	  "path": "pages/service/needdetail",
+	  "style": {
+		"navigationBarBackgroundColor":"#FFFFFF",
+	    "navigationBarTitleText": "需求详情",
+	    "enablePullDownRefresh": false,
+	    "navigationBarTextStyle": "black",
+	    "app-plus": {
+	      "bounce": "none",
+	      "scrollIndicator": "none",
+	      "titleNView": false
+	    },
+		  "backgroundColor": "#FFFFFF"
+	    // "navigationStyle": "custom"
+	  }
+	},
+	{
+	  "path": "pages/service/agreement",
+	  "style": {
+		"navigationBarBackgroundColor":"#FFFFFF",
+	    "navigationBarTitleText": "发起合同",
+	    "enablePullDownRefresh": false,
+	    "navigationBarTextStyle": "black",
+	    "app-plus": {
+	      "bounce": "none",
+	      "scrollIndicator": "none",
+	      "titleNView": false
+	    },
+		  "backgroundColor": "#FFFFFF"
+	    // "navigationStyle": "custom"
+	  }
+	},
+	// {
+	//   "path": "pages/service/orderdetail",
+	//   "style": {
+	//     "navigationBarTitleText": "订单详情",
+	//     "navigationStyle": "custom",
+	//     "app-plus": {
+	//       "bounce": "none",
+	//       "titleNView": false
+	//     }
+	//   }
+	// },
+    {
+      "path": "pages/detail/goodsinfo",
+      "style": {
+        "navigationBarTitleText": "详情",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "bounce": "none",
+          "scrollIndicator": "none",
+          "titleNView": {
+            "type": "transparent",
+            "buttons": [
+              {
+                "type": "menu"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "儒观",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+	
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#FF9D06",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/img/footer/icon_home.png",
+        "selectedIconPath": "static/img/footer/icon_home_active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/index/workspace",
+        "iconPath": "static/img/footer/icon_work.png",
+        "selectedIconPath": "static/img/footer/icon_work_active.png",
+        "text": "办公"
+      },
+      {
+        "pagePath": "pages/message/list",
+        "iconPath": "static/img/footer/icon_message.png",
+        "selectedIconPath": "static/img/footer/icon_message_active.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/discovery/list",
+        "iconPath": "static/img/footer/icon_dynamic.png",
+        "selectedIconPath": "static/img/footer/icon_dynamic_active.png",
+        "text": "动态"
+      },
+      {
+        "pagePath": "pages/member/user",
+        "iconPath": "static/img/footer/icon_center.png",
+        "selectedIconPath": "static/img/footer/icon_center_active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "condition": {
+    //模式配置，仅开发期间生效
+    "current": 0,
+    //当前激活的模式(list 的索引项)
+    "list": [
+      // 			{
+      // 			"name": "商品详情", //模式名称
+      // 			"path": "pages/jiu/index", //启动页面，必选
+      // 			"query": "itemid=111" //启动参数，在页面的onLoad函数里面得到
+      // 		}
+    ]
+  }
+}

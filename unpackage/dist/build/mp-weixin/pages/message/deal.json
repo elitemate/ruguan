@@ -1,0 +1,6 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "交易通知",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

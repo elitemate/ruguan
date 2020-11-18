@@ -1,0 +1,6 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "我的足迹",
+  "enablePullDownRefresh": false,
+  "usingComponents": {}
+}

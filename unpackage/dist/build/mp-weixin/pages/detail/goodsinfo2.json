@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "发需求",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "simple-modal": "/components/simple-pro/customModal"
+  }
+}

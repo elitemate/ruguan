@@ -1,0 +1,6 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "动态评论",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

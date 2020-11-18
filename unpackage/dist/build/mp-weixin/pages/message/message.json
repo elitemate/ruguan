@@ -1,0 +1,6 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "推送通知",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "IT/软件",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "simple-modal": "/components/simple-pro/customModal"
+  }
+}

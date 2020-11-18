@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "办公空间",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "simple-modal": "/components/simple-pro/customModal"
+  }
+}
